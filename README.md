@@ -2,8 +2,8 @@ Project Name: Wolfenstein 3D Clone
 Introduction:
 This project is a clone of the classic game Wolfenstein 3D, built using SDL2 and raycasting.
 Deployed Site: [(https://github.com/Muhammad9627/maze.git)]
-Final Project Blog Article: [Insert link to blog article (optional)]
-Author(s) LinkedIn: [Insert LinkedIn profile link (optional)]
+Final Project Blog Article: [(https://medium.com/@tukur9627/my-journey-creating-a-3d-maze-game-with-sdl2-and-raycasting-89e5372f08ca)]
+Author(s) LinkedIn: [www.linkedin.com/in/muhammad-tukur-105845264]
 Installation:
   To run the game, follow these steps:
     Install SDL2 library.
